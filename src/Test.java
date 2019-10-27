@@ -12,11 +12,9 @@ public class Test {
         int min=0;
         int max=20;
         int count=20;
-
         newFile(0,20,20);
-
         readFile();
-        
+
 
     }
 
